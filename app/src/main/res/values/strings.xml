@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RM78331-NAC02-LucaAlexandre</string>
+    <string name="nome">Type your Name</string>
+    <string name="Jogos_digitais">Digital Games</string>
+    <string name="Administracao">" Administration"</string>
+    <string name="PhotoShop">PhotoShop</string>
+    <string name="SI">Information Sistem</string>
+    <string name="Design_grafico">Design Gráfico</string>
+    <string name="escolha_seu_curso">Choose your course</string>
+    <string name="matricular">Enroll</string>
+</resources>

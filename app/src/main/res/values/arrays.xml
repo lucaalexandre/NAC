@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opcoes_de_cursos">
+        <item>@string/Jogos_digitais</item>
+        <item>@string/Administracao</item>
+        <item>@string/Design_grafico</item>
+        <item>@string/PhotoShop</item>
+        <item>@string/SI</item>
+
+    </string-array>
+
+</resources>

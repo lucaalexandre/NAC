@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RM78331-NAC02-LucaAlexandre</string>
+    <string name="nome">Digite seu nome</string>
+    <string name="Jogos_digitais">Jogos Digitais</string>
+    <string name="Administracao">Administração</string>
+    <string name="PhotoShop">PhotoShop</string>
+    <string name="SI">Sistema da Informação</string>
+    <string name="escolha_seu_curso">Escolha seu curso</string>
+    <string name="matricular">Matricular</string>
+    <string name="Design_grafico">Design Gráfico</string>
+</resources>
